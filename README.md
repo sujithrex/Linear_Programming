@@ -9,7 +9,7 @@ Linear programming is a set of techniques used in mathematical programming, some
 
 The Python ecosystem offers several comprehensive and powerful tools for linear programming. You can choose between simple and complex tools as well as between free and commercial ones. It all depends on your needs.
 
-With is repository you can do
+With this repository you can do
 - Solve LLP problems with two constraints and one objective function
 - Get a plot with answer
 - ✨Get Real World Exploration✨
