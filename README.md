@@ -22,6 +22,7 @@ With is repository you can do
 
 ## Example 
 
+![download](https://github.com/sujithrex/Linear_Programming/assets/40714536/02e13316-25ff-40d7-bfd4-96c3315bbd73)
 
 ## Tech
 
@@ -33,7 +34,7 @@ Libraries used in this code:
 
 
 ## Installation
-![download](https://github.com/sujithrex/Linear_Programming/assets/40714536/02e13316-25ff-40d7-bfd4-96c3315bbd73)
+
 
 It requires [Python 3](https://www.python.org/downloads/) v3+ to run.
 
